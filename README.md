@@ -9,11 +9,10 @@
  
 </p>
 
-En este repositorio comparto el código en R que he desarrollado para analizar el rendimiento de jugadores de fútbol a lo largo del tiempo. Utilizo datos de Fbref.com para rastrear la evolución de goles y asistencias por cada 90 minutos en jugadores seleccionados durante las temporadas de 2000 a 2024. Además, incluyo visualizaciones que muestran claramente las tendencias en el desempeño de estos jugadores.
+Utilizando datos provenientes de Fbref.com, el análisis rastrea la evolución de métricas clave como goles y asistencias por cada 90 minutos para jugadores seleccionados entre las temporadas de 2000 a 2024. Además, incluyo visualizaciones interactivas que muestran las tendencias en el desempeño de los jugadores a lo largo de los años.
 
 ## Datos
-Los datos de este análisis provienen de Fbref.com, una plataforma completa de estadísticas de fútbol. El conjunto de datos abarca estadísticas avanzadas de temporada para jugadores de las cinco principales ligas europeas (Big Five), desde 2000 hasta 2024.
-
+Los datos utilizados en este análisis provienen de Fbref.com, una plataforma de estadísticas avanzadas de fútbol que cubre las principales ligas europeas. El conjunto de datos abarca las estadísticas de temporada para jugadores de las cinco principales ligas europeas (Big Five) desde 2000 hasta 2024.
 Métricas Clave Analizadas
 
 **Goles por cada 90 minutos** (Gls_Per)
@@ -28,15 +27,18 @@ Una métrica avanzada que evalúa la calidad de las oportunidades de gol creadas
 **Asistencias esperadas por cada 90 minutos** (xAG_Per)
 Estima la probabilidad de que las acciones de un jugador se conviertan en asistencias.
 
-Alcance del Análisis
+
+
 
 Este estudio se centra en los jugadores de las siguientes ligas:
 
-Premier League (Inglaterra)
-La Liga (España)
-Serie A (Italia)
-Bundesliga (Alemania)
-Ligue 1 (Francia)
+- Premier League (Inglaterra)
+- La Liga (España)
+- Serie A (Italia)
+- Bundesliga (Alemania)
+- Ligue 1 (Francia)
+
+
 
 ## Análisis de los jugadores
 
